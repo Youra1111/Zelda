@@ -1,0 +1,16 @@
+@font-face {
+  font-family: MADELikesSlab;
+  src: local("MADELikesSlab"),
+  url(../texts/madelikesslab.ttf);
+}
+body{
+  background-image: url(https://greatgamer.ru/images/games_cover/cover_32649.jpg);
+  background-size: cover;
+  font-family: MADELikesSlab;
+}
+main{
+  background-image: var(--bs-gradient);
+}
+#Link{
+  align: center;
+}

@@ -1,0 +1,13 @@
+@font-face {
+  font-family: MADELikesSlab;
+  src: local("MADELikesSlab"),
+  url(../texts/madelikesslab.ttf);
+}
+body{
+  background-image: url(https://wallpaperaccess.com/full/397388.jpg);
+  background-size: contain;
+  font-family: MADELikesSlab;
+}
+p{
+  color: Aqua;
+}

@@ -1,0 +1,16 @@
+@font-face {
+  font-family: MADELikesSlab;
+  src: local("MADELikesSlab"),
+  url(../texts/madelikesslab.ttf);
+}
+body{
+  background-image: url(https://wallpaperaccess.com/full/2680863.jpg);
+  background-size: contain;
+  font-family: MADELikesSlab;
+}
+a{
+  color: orange;
+}
+p {
+  color: #FF7F50;
+}
